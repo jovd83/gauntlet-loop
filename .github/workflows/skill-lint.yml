@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v7
       - uses: jovd83/skill-lint@v3
         with:
-          path: .
+          path: .claude/skills/gauntlet-loop
